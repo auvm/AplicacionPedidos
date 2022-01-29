@@ -1,0 +1,6 @@
+D:\auvm\Documents\Visual Studio 2022\Projects\LibreriaPedidos\bin\Debug\LibreriaPedidos.dll
+D:\auvm\Documents\Visual Studio 2022\Projects\LibreriaPedidos\bin\Debug\LibreriaPedidos.pdb
+D:\auvm\Documents\Visual Studio 2022\Projects\LibreriaPedidos\obj\Debug\LibreriaPedidos.csproj.AssemblyReference.cache
+D:\auvm\Documents\Visual Studio 2022\Projects\LibreriaPedidos\obj\Debug\LibreriaPedidos.csproj.CoreCompileInputs.cache
+D:\auvm\Documents\Visual Studio 2022\Projects\LibreriaPedidos\obj\Debug\LibreriaPedidos.dll
+D:\auvm\Documents\Visual Studio 2022\Projects\LibreriaPedidos\obj\Debug\LibreriaPedidos.pdb
